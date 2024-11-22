@@ -274,3 +274,28 @@ function change(direction) {
 
 // Start
 setup();
+
+
+// const slides = document.querySelectorAll(".slide");
+// const totalSlide = slides.length;
+// let currentIndex = 0;
+// const nextbutton = document.getElementById("next");
+// const prevbutton = document.getElementById("prev");
+
+// nextbutton.onclick = () => {
+// 	currentIndex = (currentIndex + 1) % totalSlide;
+// 	updateCarousel() ;
+// };
+
+// prevbuttonbutton.onclick = () => {
+// 	currentIndex = (currentIndex - 1 + totalSlide) % totalSlide;
+// 	updateCarousel() ;
+// };
+
+// function updateCarousel() {
+// 	const offset = currentIndex * 500;
+// 	document.querySelector('.slides').style.transform = `translateX(${offset}px)`;
+// };
+
+
+
